@@ -10,7 +10,7 @@ If the correct sequence is entered, the "Unlocked" LED turns ON.
 
 ## Circuit Diagram
 
-![Password Lock Circuit](docs/circuit_diagram.png)
+![Password Lock Circuit](password-lock-using-flip-flops.png)
 
 ## Working Principle
 
