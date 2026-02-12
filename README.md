@@ -8,10 +8,6 @@ The design is created and simulated in Logisim.
 The system verifies a predefined sequence of inputs using sequential logic.  
 If the correct sequence is entered, the "Unlocked" LED turns ON.
 
-## Circuit Diagram
-
-![Password Lock Circuit](password-lock-using-flip-flops.png)
-
 ## Working Principle
 
 - Each input bit is stored in a D Flip-Flop.
